@@ -4,6 +4,7 @@ A full-stack web application for managing tasks with secure user authentication,
 
 ## Quick Links
 
+📖 **[Complete Design Document](./DESIGN_DOCUMENT.md)** - Comprehensive specification for the entire project
 
 ## Project Overview
 
@@ -145,6 +146,10 @@ Users (1) ──→ (∞) Tasks
     └─→ User_Roles
 ```
 
+<<<<<<< HEAD
+=======
+See [Database Design](./DESIGN_DOCUMENT.md#4-database-design) for full schema.
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
@@ -161,7 +166,11 @@ Users (1) ──→ (∞) Tasks
 - CORS protection
 - XSS prevention
 
+<<<<<<< HEAD
 
+=======
+See [Security Design](./DESIGN_DOCUMENT.md#7-security-design) for details.
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
@@ -192,7 +201,11 @@ npm run lint               # Code linting
 **Backend**: Use IDE debugger or attach to port 5005
 **Frontend**: Chrome DevTools (F12) or VS Code debugger
 
+<<<<<<< HEAD
 
+=======
+See [Development Guide](./DESIGN_DOCUMENT.md#9-development-guide) for more.
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
@@ -207,6 +220,10 @@ npm run lint               # Code linting
 - [ ] Logging configured
 - [ ] Monitoring set up
 
+<<<<<<< HEAD
+=======
+See [Deployment Architecture](./DESIGN_DOCUMENT.md#8-deployment-architecture) for instructions.
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
@@ -220,7 +237,11 @@ npm run lint               # Code linting
 - 🔔 Notifications
 - 🌙 Dark mode
 
+<<<<<<< HEAD
 
+=======
+See [Future Enhancements](./DESIGN_DOCUMENT.md#10-future-enhancements) for complete roadmap.
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
@@ -243,10 +264,18 @@ For detailed information on any aspect of the project:
 
 ## License
 
+<<<<<<< HEAD
 
+=======
+[Add your license here]
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
 ---
 
 **Last Updated**: April 6, 2026  
+<<<<<<< HEAD
 **Project Lead**:
+=======
+**Project Lead**: [Add team info]
+>>>>>>> 0cd7d3f (Initial commit: Prepare project for Render deployment)
 
